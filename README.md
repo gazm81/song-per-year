@@ -3,9 +3,9 @@
 | Year | Artist | Song | Notes |
 | ---- | ------ | ---- | ----- |
 | 1981 | Journey | Don’t Stop Believin’ | Note  |
-| 1982 | Artist | Song | Note  |
-| 1983 | Artist | Song | Note  |
-| 1984 | Artist | Song | Note  |
+| 1982 | Artist | Song | eye of tiger, don't you want me |
+| 1983 | Artist | Song | billie jean, africa , spandu |
+| 1984 | Artist | Song | owner of a lonely heart, time after time  |
 | 1985 | Artist | Song | Note  |
 | 1986 | Artist | Song | Note  |
 | 1987 | Artist | Song | Note  |
