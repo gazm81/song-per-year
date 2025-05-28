@@ -1,2 +1,55 @@
-# song-per-year
-My favourite song per year
+# Favorite Song Per Year
+
+| Year | Artist | Song | Notes |
+| ---- | ------ | ---- | ----- |
+| 1981 | Artist | Song | Note  |
+| 1982 | Artist | Song | Note  |
+| 1983 | Artist | Song | Note  |
+| 1984 | Artist | Song | Note  |
+| 1985 | Artist | Song | Note  |
+| 1986 | Artist | Song | Note  |
+| 1987 | Artist | Song | Note  |
+| 1988 | Artist | Song | Note  |
+| 1989 | Artist | Song | Note  |
+| 1990 | Artist | Song | Note  |
+| 1991 | Artist | Song | Note  |
+| 1992 | Artist | Song | Note  |
+| 1993 | Artist | Song | Note  |
+| 1994 | Artist | Song | Note  |
+| 1995 | Artist | Song | Note  |
+| 1996 | Artist | Song | Note  |
+| 1997 | Artist | Song | Note  |
+| 1998 | Artist | Song | Note  |
+| 1999 | Artist | Song | Note  |
+| 2000 | Artist | Song | Note  |
+| 2001 | Artist | Song | Note  |
+| 2002 | Artist | Song | Note  |
+| 2003 | Artist | Song | Note  |
+| 2004 | Artist | Song | Note  |
+| 2005 | Artist | Song | Note  |
+| 2006 | Artist | Song | Note  |
+| 2007 | Artist | Song | Note  |
+| 2008 | Artist | Song | Note  |
+| 2009 | Artist | Song | Note  |
+| 2010 | Artist | Song | Note  |
+| 2011 | Artist | Song | Note  |
+| 2012 | Artist | Song | Note  |
+| 2013 | Artist | Song | Note  |
+| 2014 | Artist | Song | Note  |
+| 2015 | Artist | Song | Note  |
+| 2016 | Artist | Song | Note  |
+| 2017 | Artist | Song | Note  |
+| 2018 | Artist | Song | Note  |
+| 2019 | Artist | Song | Note  |
+| 2020 | Artist | Song | Note  |
+| 2021 | Artist | Song | Note  |
+| 2022 | Artist | Song | Note  |
+| 2023 | Artist | Song | Note  |
+| 2024 | Artist | Song | Note  |
+| 2025 | Artist | Song | Note  |
+| 2026 | Artist | Song | Note  |
+| 2027 | Artist | Song | Note  |
+| 2028 | Artist | Song | Note  |
+| 2029 | Artist | Song | Note  |
+| 2030 | Artist | Song | Note  |
+| 2031 | Artist | Song | Note  |
