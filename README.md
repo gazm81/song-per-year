@@ -17,7 +17,7 @@
 | 1993 | Artist | Song | Note  |
 | 1994 | Artist | Song | Note  |
 | 1995 | Artist | Song | Note  |
-| 1996 | Artist | Song | Note  |
+| 1996 | Underworld | Born Slippy .Nuxx | Note  |
 | 1997 | Artist | Song | Note  |
 | 1998 | Artist | Song | Note  |
 | 1999 | Artist | Song | Note  |
