@@ -10,7 +10,7 @@
 | 1986 | Artist | Song | communards  |
 | 1987 | Artist | Song | Note  |
 | 1988 | Artist | Song | Note  |
-| 1989 | Artist | Song | Note  |
+| 1989 | Pixies | Hey | Note  |
 | 1990 | Artist | Song | Note  |
 | 1991 | Artist | Song | Note  |
 | 1992 | Artist | Song | Note  |
