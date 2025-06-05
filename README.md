@@ -28,18 +28,18 @@
 | 2004 | Artist | Song | Note  |
 | 2005 | Artist | Song | Note  |
 | 2006 | Artist | Song | Note  |
-| 2007 | Radiohead | Reckoner | Note  |
+| 2007 | Radiohead | Reckoner | In Rainbows  |
 | 2008 | Artist | Song | Note  |
 | 2009 | Artist | Song | Note  |
 | 2010 | Artist | Song | Note  |
-| 2011 | Artist | Song | Note  |
+| 2011 | Radiohead | Separator | King of Limbs Album  |
 | 2012 | Artist | Song | Note  |
 | 2013 | Artist | Song | Note  |
 | 2014 | Artist | Song | Note  |
 | 2015 | Artist | Song | Note  |
 | 2016 | Artist | Song | Note  |
 | 2017 | Artist | Song | Note  |
-| 2018 | Thom Yorke | Unmade | Note  |
+| 2018 | Thom Yorke | Unmade | Suspirium Soundtrack  |
 | 2019 | Artist | Song | Note  |
 | 2020 | Artist | Song | Note  |
 | 2021 | Artist | Song | Note  |
