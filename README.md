@@ -16,7 +16,7 @@
 | 1992 | Artist | Song | Note  |
 | 1993 | Artist | Song | Note  |
 | 1994 | Artist | Song | Note  |
-| 1995 | Artist | Song | Note  |
+| 1995 | Radiohead | Bulletproof | The Bends  |
 | 1996 | Underworld | Born Slippy .Nuxx | Note  |
 | 1997 | Radiohead | Karma Police | Ok Computer  |
 | 1998 | Artist | Song | Note  |
