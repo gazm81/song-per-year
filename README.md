@@ -13,7 +13,7 @@
 | 1989 | Pixies | Hey | Note  |
 | 1990 | Artist | Song | Note  |
 | 1991 | Artist | Song | Note  |
-| 1992 | Artist | Song | Note  |
+| 1992 | Duran Duran | Ordinary World | Note  |
 | 1993 | Radiohead | Creep | Pablo Honey  |
 | 1994 | Artist | Song | Note  |
 | 1995 | Radiohead | Bulletproof | The Bends  |
